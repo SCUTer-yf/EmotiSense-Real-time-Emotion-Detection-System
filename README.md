@@ -1,3 +1,7 @@
+# EmotiSense: Real-time Emotion Detection System
+
+A real-time emotion detection system powered by OpenCV and DeepFace, capable of analyzing facial expressions and emotional states through webcam. Features include real-time face detection, emotion tracking, high-confidence emotion logging (>95%), and emotion trend analysis with DeepSeek API integration.
+
 # 实时情绪检测系统
 
 这是一个基于OpenCV和DeepFace的实时情绪检测系统，可以通过摄像头实时检测人脸表情并分析情绪状态。
@@ -109,4 +113,4 @@ python main.py
 
 1. 确保摄像头可正常使用
 2. 保持适当的光照条件以提高检测准确度
-3. 建议在相对安静的环境中使用，以获得更准确的情绪分析结果
+3. 建议在相对安静的环境中使用，以获得更准确的情绪分析结果```
